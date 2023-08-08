@@ -1,2 +1,1 @@
-FROM sulinggg/openwrt:x86_64
-CMD /bin/bash
+FROM vscwjm/myvscode:4.0.2-zh_CN-Real_Root
